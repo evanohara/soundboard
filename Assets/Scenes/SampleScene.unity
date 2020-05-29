@@ -349,6 +349,16 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: ec790967bb1bbec42966047386ea3bf9, type: 3}
+    - target: {fileID: 4575590852413609547, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
+        type: 3}
+      propertyPath: Priority
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575590852413609547, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.75
+      objectReference: {fileID: 0}
     - target: {fileID: 4757109972520346731, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
         type: 3}
       propertyPath: m_Text
@@ -1115,6 +1125,16 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: b5e3c610fb5ad164da6c7da8516cacb1, type: 3}
+    - target: {fileID: 4575590852413609547, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
+        type: 3}
+      propertyPath: Priority
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575590852413609547, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.75
+      objectReference: {fileID: 0}
     - target: {fileID: 4757109972520346731, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
         type: 3}
       propertyPath: m_Text
@@ -1453,6 +1473,16 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 2178d661cc023c54eb24f040c39385aa, type: 3}
+    - target: {fileID: 4575590852413609547, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
+        type: 3}
+      propertyPath: Priority
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575590852413609547, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.75
+      objectReference: {fileID: 0}
     - target: {fileID: 4757109972520346731, guid: ffdb34010f0c842439f1b8c2ed4b3dc9,
         type: 3}
       propertyPath: m_Text
